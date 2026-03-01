@@ -16,7 +16,7 @@ Inspired by Sony DSEE HX, it uses a **non-deep-learning frequency enhancement al
 
 ## Installation & Usage
 
-[下载 / Download](https://github.com/lainlives/DSRE)
+[Download](https://github.com/lainlives/DSRE)
 
 ---
 
