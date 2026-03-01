@@ -21,17 +21,17 @@ Inspired by Sony DSEE HX, it uses a **non-deep-learning frequency enhancement al
 ---
 
 ## Parameters
+_______________________________________________________________________________________________________________
+| Parameter                        | Default     | Description                                                |
+| Modulation count (m)             | 8           | "Number of enhancement repetitions higher = more detail"-  |
+| Decay                            | 1.25        | High-frequency decay control                               |
+| Pre-processing high-pass cutoff  | 3000 Hz     | Pre-enhancement high-pass filter                           |
+| Post-processing high-pass cutoff | 16000 Hz    | Post-enhancement high-pass filter                          |
+| Filter order                     | 11          | High-pass filter order                                     |
+| Target sampling rate             | 96000 Hz    | Output audio sample rate                                   |
+| Output format                    | ALAC / FLAC | Choose Hi-Res output format                                |
 
-+----------------------------------+-------------+---------------------------------------------------------+
-|            Parameter             |   Default   |                       Description                       |
-+----------------------------------+-------------+---------------------------------------------------------+
-| Modulation count (m)             | 8           | Number of enhancement repetitions, higher = more detail |
-| Decay                            | 1.25        | High-frequency decay control                            |
-| Pre-processing high-pass cutoff  | 3000 Hz     | Pre-enhancement high-pass filter                        |
-| Post-processing high-pass cutoff | 16000 Hz    | Post-enhancement high-pass filter                       |
-| Filter order                     | 11          | High-pass filter order                                  |
-| Target sampling rate             | 96000 Hz    | Output audio sample rate                                |
-| Output format                    | ALAC / FLAC | Choose Hi-Res output format                             |
-+----------------------------------+-------------+---------------------------------------------------------+
+
+
 
 ---
